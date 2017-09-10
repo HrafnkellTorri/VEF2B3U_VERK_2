@@ -40,4 +40,4 @@ var Pizza2 = new Pizzaconstructor("16$","Miðlungs","Migluostur");
 
 document.getElementById("Pizza1").innerHTML = "Pizza nr.1 kostar " + Pizza1.verd + " stærðin er " + Pizza1.staerd + " og á henni er " + Pizza1.toppur; 
 
-document.getElementById("Pizza2").innerHTML = "Pizza nr.1 kostar " + Pizza2.verd + " stærðin er " + Pizza2.staerd + " og á henni er " + Pizza2.toppur; 
+document.getElementById("Pizza2").innerHTML = "Pizza nr.2 kostar " + Pizza2.verd + " stærðin er " + Pizza2.staerd + " og á henni er " + Pizza2.toppur; 
